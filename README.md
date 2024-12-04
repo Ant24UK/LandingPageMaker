@@ -75,6 +75,7 @@ python LPM.py -t <TARGET_URL> [-v]
 ```bash
 python LPM.py -t "https://example.com" -v
 ```
+![image](https://github.com/user-attachments/assets/1a1d18f8-cb9a-4eab-8d3e-fb4679b9de62)
 
 ---
 
